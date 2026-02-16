@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Responsive Profile Card</title>
+
+  <!-- Font Awesome Icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+  <!-- Main CSS -->
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <!-- Theme Toggle -->
+  <button id="themeToggle" class="toggle-btn">
+    🌙 Dark Mode
+  </button>
+
+  <!-- Profile Card -->
+  <div class="card">
+
+    <img src="assets/profile.jpg" alt="Profile Image" class="profile-img">
+
+    <h2 class="name" id="profileName"></h2>
+    <p class="designation" id="profileRole"></p>
+
+    <p class="bio" id="profileBio"></p>
+
+    <!-- Contact Button -->
+    <button class="btn" id="contactBtn">Contact</button>
+
+    <!-- Expandable Contact Form -->
+    <div class="contact-form" id="contactForm">
+      <input type="email" id="emailInput" placeholder="Your Email">
+      <textarea id="messageInput" placeholder="Your Message"></textarea>
+      <button class="btn submit-btn">Send</button>
+      <p class="error-msg" id="errorMsg"></p>
+    </div>
+
+    <!-- Social Icons -->
+    <div class="social-icons">
+      <a href="https://www.linkedin.com/in/itisrajeevsingh" target="_blank"><i class="fab fa-linkedin"></i></a>
+      <a href="https://github.com/itisrajeevsingh" target="_blank"><i class="fab fa-github"></i></a>
+      <a href="https://twitter.com/itisrajeevsingh" target="_blank"><i class="fab fa-twitter"></i></a>
+    </div>
+
+  </div>
+
+  <!-- JavaScript -->
+  <script src="script.js"></script>
+
+</body>
+</html>
