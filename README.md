@@ -68,19 +68,6 @@ Added hover animations, ripple effect, image zoom, and fade-in transitions for b
 
 ---
 
-## 🧠 Interview Questions & Answers
-
-### How did you make it responsive?
-Used a mobile-first approach with flexible widths and max-width constraints combined with Flexbox for layout alignment.
-
-### Which layout system did you use and why?
-Flexbox was used for vertical and horizontal centering because the layout is one-dimensional and straightforward.
-
-### How would you convert this into a reusable component?
-In React, I would create a reusable `ProfileCard` component and pass profile data as props for scalability.
-
----
-
 ## 📬 Contact
 
 If you’d like to connect:
