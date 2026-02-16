@@ -6,12 +6,6 @@ This project demonstrates clean UI design, dark mode implementation, DOM manipul
 
 ---
 
-## 🚀 Live Demo
-
-🔗 [View Live Project](https://itisrajeevsingh.github.io/responsive-profile-card/)
-
----
-
 ## ✨ Features
 
 - ✅ Fully Responsive Design
