@@ -6,6 +6,22 @@ This project demonstrates clean UI design, dark mode implementation, DOM manipul
 
 ---
 
+## 📸 Project Preview
+
+### 💻 Desktop Light Mode
+![Desktop Light](output/responsive-profile-card-pc-light.png)
+
+### 🌙 Desktop Dark Mode
+![Desktop Dark](output/responsive-profile-card-pc-dark.png)
+
+### 📱 Mobile View
+![Mobile](output/responsive-profile-card-pc-light-mobile.png)
+
+### 📝 Contact Form Expanded
+![Form](output/responsive-profile-card-pc-light-mobile-form.png)
+
+---
+
 ## ✨ Features
 
 - ✅ Fully Responsive Design
